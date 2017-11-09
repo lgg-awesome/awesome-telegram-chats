@@ -46,6 +46,7 @@ Take a minute and have a look at collection of Open Source Examples, Libraries a
 - [Mobile Jobs](https://telegram.me/mobile_jobs) — аналитика, вакансии и запросы на поиск работы по направлению iOS, Android, Xamarin и т.д
 - [JSlang](https://telegram.me/JSlang)
 - [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
+- [WebLive](https://t.me/weblive) - `web` чат для веб разработчиков
 - [TypeScript](https://telegram.me/joinchat/CymduD8d8RrQ1-ldWD8VmA)
 - [БЭМ](https://telegram.me/bem_ru)
 - [PRO.C](https://telegram.me/proCxx)
